@@ -16,7 +16,7 @@ namespace ChildButtonClick_ButtonEdit
         ButtonEditChildButton childButton = new ButtonEditChildButton()
         {
             Size = new Size(22, 22),
-            Image = Image.FromFile(@"..\..\Images\threeDots.png"),
+            Image = Image.FromFile(@"..\..\Images\Dot.png"),
         };
 
         CalendarPopup calendarPopup = new CalendarPopup()
