@@ -54,4 +54,4 @@ private void ChildButton_Click(object sender, EventArgs e)
 
 ## Output
 
-![DatePicker](ChildButtonClick_ButtonEdit/Images/DatePicker.png).
+![WinForms DatePicker](ChildButtonClick_ButtonEdit/Images/winforms_datepicker.png).
